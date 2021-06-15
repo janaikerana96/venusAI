@@ -1,0 +1,14 @@
+SpeechRecognition 
+pyyaml
+pypiwin32ss
+pyaudio
+googletrans
+wikipedia
+beautifulsoup4
+requests
+selenium
+virtualenv
+lxml
+python-vlc
+pip install bokeh
+pip install opencv-python
